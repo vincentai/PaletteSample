@@ -1,0 +1,2 @@
+# PaletteSample
+Android Palette Sample
